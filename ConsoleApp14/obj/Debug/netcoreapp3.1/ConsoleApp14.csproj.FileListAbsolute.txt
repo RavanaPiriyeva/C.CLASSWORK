@@ -1,0 +1,14 @@
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfo.cs
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.exe
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.deps.json
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.json
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.dev.json
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.dll
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.pdb
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.dll
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.pdb
+C:\Users\Ravana\Desktop\classwork\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.genruntimeconfig.cache
