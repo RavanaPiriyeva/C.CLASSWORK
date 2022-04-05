@@ -1,0 +1,14 @@
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.exe
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.deps.json
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.runtimeconfig.json
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.runtimeconfig.dev.json
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.dll
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.pdb
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.csproj.AssemblyReference.cache
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.AssemblyInfoInputs.cache
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.AssemblyInfo.cs
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.dll
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.pdb
+C:\Users\Ravana\Desktop\classwork\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.genruntimeconfig.cache
